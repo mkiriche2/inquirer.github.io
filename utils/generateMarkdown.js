@@ -72,7 +72,7 @@ ${badgeUrl}
 # Title ${answers.second}
 # Description ${answers.third}
 # table of contents 
-[Title] (https://github.com/mkiriche2/inquirer.github.io/tree/master/utils#Title)
+[Title] (https://github.com/mkiriche2/inquirer.github.io/tree/master/utils#title)
 Desciption ${answers.third}
 Usage ${answers.fourth}
 Installation ${answers.fifth}
