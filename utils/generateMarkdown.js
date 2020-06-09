@@ -71,15 +71,15 @@ function generateMarkdown(data) {
 ${badgeUrl}
 # Title ${answers.second}
 # Description ${answers.third}
-# table of contents 
-[Title] (https://github.com/mkiriche2/inquirer.github.io/tree/master/utils#title)
-Desciption ${answers.third}
-Usage ${answers.fourth}
-Installation ${answers.fifth}
-License ${answers.sixth}
-Contributing ${answers.seventh}
-Tests ${answers.eigth}
-Questions ${answers.ninth}
+# Table of Contents 
+[Title](https://github.com/mkiriche2/inquirer.github.io/tree/master/utils#title)
+[Desciption](https://github.com/mkiriche2/inquirer.github.io/tree/master/utils#description)
+[Usage](https://github.com/mkiriche2/inquirer.github.io/tree/master/utils#usage)
+[Installation](https://github.com/mkiriche2/inquirer.github.io/tree/master/utils#installation)
+[License](https://github.com/mkiriche2/inquirer.github.io/tree/master/utils#license)
+[Contributing](https://github.com/mkiriche2/inquirer.github.io/tree/master/utils#contributing)
+[Tests](https://github.com/mkiriche2/inquirer.github.io/tree/master/utils#tests)
+[Questions](https://github.com/mkiriche2/inquirer.github.io/tree/master/utils#questions)
 # Usage ${answers.fourth}
 # Installation ${answers.fifth}
 # License ${answers.sixth}
